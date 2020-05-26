@@ -1,2 +1,3 @@
-# d4mn_nudeln_website
-The website for our Rocket League team, D4mn Nudeln.
+# D4mn Nudeln Website
+
+Template used: https://templatemo.com/live/templatemo_510_letter
